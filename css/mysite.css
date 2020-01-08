@@ -107,8 +107,8 @@ p {
 }
 .apple {
   position: absolute;
-  left:500px;
-  bottom:100px;
+  left:31.25rem;
+  bottom:6.25rem;
 }
 .mountain {
   position: relative;
@@ -117,8 +117,8 @@ p {
 }
 .windows {
   position: absolute;
-  right:500px;
-  bottom: 90px;
+  right:31.25rem;
+  bottom: 5.625rem;
 }
 .tree1 {
   position: absolute;
@@ -179,14 +179,14 @@ p {
 }
 .GIT {
   position: absolute;
-  top:15px;
-  left:580px;
+  top:0.9375rem;
+  left:36.25rem;
 
 }
 .GIT2 {
   position: absolute;
-  bottom: 180px;
-  left: 620px;
+  bottom: 11.25rem;
+  left: 38.75rem;
 
 
 }
