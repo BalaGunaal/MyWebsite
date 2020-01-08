@@ -1,0 +1,195 @@
+body {
+  margin:0;
+  text-align: center;
+  font-family: 'Bitter', serif;
+
+}
+
+.top-container {
+  background-color: #c19191;
+  position: relative;
+  padding-top: 100px;
+  line-height: 1;
+
+
+
+}
+.hr1 {
+  background-color: #aa7070;
+  border-style: none;
+  border-top: dotted;
+  border-color: #c19191;
+  border-width: 10px;
+  height: 5px;
+  width: 5%;
+  position: absolute;
+  top:10px;
+  left:48%;
+}
+.hr2 {
+  height: 5px;
+  width: 5%;
+  border-style: none;
+  border-top: dotted;
+  border-color: #c19191;
+  border-width: 10px;
+  background-color: #aa7070;
+
+
+}
+h1 {
+  font-family: 'Kaushan Script', cursive;
+  color: #8b5d5d;
+  font-size: 3.75em;
+  margin-top: 50px;
+
+}
+.mytitle {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 1.6rem;
+  color: #5d5b6a;
+  font-weight: normal;
+}
+h2 {
+font-family: 'Rock Salt', cursive;
+font-size: 2.5rem;
+color:#5d5b6a;
+}
+p {
+  font-family: 'Share', cursive;
+  font-size: 1.5rem;
+}
+
+.cloud1 {
+  position:absolute;
+  right: 430px;
+  top:70px;
+}
+.cloud2 {
+  position:absolute;
+  left: 430px;
+  bottom: 270px;
+}
+.man {
+  position: absolute;
+  left:2px;
+  bottom: -8px;
+}
+.plane {
+  position: absolute;
+  left:90px;
+  bottom: 40px;
+}
+.car {
+  position: absolute;
+  left:90px;
+  bottom: -20px;
+}
+.office4 {
+  position: absolute;
+  left: 165px;
+  bottom: -10px;
+}
+.office3 {
+  position: absolute;
+  left: 230px;
+  bottom: -6px;
+}
+.office1 {
+  position: absolute;
+  left:290px;
+  bottom: 0px;
+}
+.office2 {
+  position: absolute;
+  left:360px;
+  bottom: 0px;
+}
+.apple {
+  position: absolute;
+  left:500px;
+  bottom:100px;
+}
+.mountain {
+  position: relative;
+  bottom: 0px;
+
+}
+.windows {
+  position: absolute;
+  right:500px;
+  bottom: 90px;
+}
+.tree1 {
+  position: absolute;
+  right:355px;
+  bottom: -5px;
+
+}
+
+.tree2 {
+  position: absolute;
+  right:290px;
+  bottom: -5px;
+}
+.monkey {
+  position: absolute;
+  right:250px;
+  bottom: 0px;
+}
+.giraffe {
+  position: absolute;
+  right:180px;
+  bottom: 0px;
+}
+
+.deer {
+  position: absolute;
+  right:140px;
+  bottom: -5px;
+}
+.gorilla {
+  position: absolute;
+  right:80px;
+  bottom: 0px;
+
+}
+.elephant {
+  position: absolute;
+  right:10px;
+  bottom: -9px;
+}
+/******************************MIDDLE********************************/
+.middle-container{
+  background-color: #aa7070;
+  position: absolute;
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 500px;
+
+/*****************************BOTTOM********************************/
+}
+.bottom-container {
+  background-color: #c19191;
+  position: absolute;
+  width: 100%;
+  height: 10%;
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+.GIT {
+  position: absolute;
+  top:15px;
+  left:580px;
+
+}
+.GIT2 {
+  position: absolute;
+  bottom: 180px;
+  left: 620px;
+
+
+}
+.pro {
+  text-decoration: underline;
+}
